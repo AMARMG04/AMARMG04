@@ -12,24 +12,55 @@ I enjoy turning ideas into polished, real-world projects that feel fast, clean, 
 
 ---
 
-### 🧠 Tech I Use & Like
-#### **Frontend**
-`Next.js` `React` `Tailwind CSS` `Zustand`
 
-#### **Backend**
-`Go` `Node.js` `Express` `MongoDB` `PostgreSQL`
+## 🛠️ Skills & Tools
 
-#### **DevOps / Infra**
-`Docker` `Kubernetes` `Prometheus` `Grafana` `GitHub Actions`
+### **Frontend**
+<div style="display: flex; gap: 12px;">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+</div>
 
-#### **AI / ML**
-`Gemma` `Qwen` `Ollama` `LangChain` `Vector Databases`
+### **Backend**
+<div style="display: flex; gap: 12px;">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+</div>
+
+### **DevOps & Infra**
+<div style="display: flex; gap: 12px;">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg"/>
+</div>
+
+### **AI / LLM**
+<div style="display: flex; gap: 12px;">
+  <img height="40" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white&logo=OpenAI" />
+  <img height="40" src="https://img.shields.io/badge/Gemma-4B%2F7B%2F12B-blue?style=for-the-badge" />
+  <img height="40" src="https://img.shields.io/badge/Qwen-Series-purple?style=for-the-badge" />
+</div>
 
 ---
 
-### 🌍 Connect With Me
-<a href="https://github.com/AMARMG04" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/manoj-mg-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+## 🌍 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/AMARMG04">
+    <img src="https://skillicons.dev/icons?i=github" height="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/manoj-mg-dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
+  </a>
+</div>
+
+---
 
 ---
 
