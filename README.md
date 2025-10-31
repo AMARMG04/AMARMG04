@@ -1,33 +1,54 @@
-<p align="center">
-  <img src="https://github.com/AMARMG04/AMARMG04/blob/main/assets/banner.png?raw=true" alt="Manoj MG - Full Stack Developer" width="100%"/>
-</p>
+# 👋 Hey, I'm Manoj
 
-<h1 align="center">Hi 👋, I'm Manoj MG</h1>
-<h3 align="center">Full Stack Software Developer | AI & Cloud Enthusiast</h3>
-
-<p align="center">
-  <a href="mailto:manojmg.dev@gmail.com"><img src="https://img.shields.io/badge/Email-manojmg.dev@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
-  <a href="https://linkedin.com/in/manoj-mg-dev"><img src="https://img.shields.io/badge/LinkedIn-Manoj%20MG-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://github.com/AMARMG04"><img src="https://img.shields.io/badge/GitHub-AMARMG04-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <a href="tel:+919360270749"><img src="https://img.shields.io/badge/Phone-%2B91%209360270749-green?style=for-the-badge&logo=whatsapp" alt="Phone"/></a>
-</p>
+I'm a **Full Stack Developer** and **DevOps learner**, passionate about building scalable systems and practical AI-powered applications.  
+I enjoy turning ideas into polished, real-world projects that feel fast, clean, and thoughtfully engineered.
 
 ---
 
-## 🚀 **About Me**
-
-Versatile and results-driven **Software Engineer** passionate about building scalable web applications, AI-powered systems, and cloud-native solutions. Proficient in **Agile methodologies**, **microservices**, **RESTful APIs**, and **modern DevOps practices**.
-
-Currently diving deep into **AWS**, **Golang**, and **MLOps** to architect intelligent, high-performance systems.
+### 🚀 What I'm Working On
+- Building **Insight Loop** – a SaaS platform for analyzing customer feedback using LLMs
+- Improving my **DevOps & Cloud** skills (Docker, Kubernetes, CI/CD, AWS)
+- Experimenting with **AI model inference**, quantization & hybrid deployment setups
 
 ---
 
-## 🛠️ **Tech Stack**
+### 🧠 Tech I Use & Like
+#### **Frontend**
+`Next.js` `React` `Tailwind CSS` `Zustand`
 
-```text
-Languages      • C++  • JavaScript  • Python  • Go
-Frontend       • React  • Next.js  • Tailwind CSS
-Backend        • Node.js  • Express  • Flask  • Django
-Databases      • MongoDB  • MySQL  • PostgreSQL
-Cloud & DevOps • AWS  • Firebase  • Docker  • Vercel  • Git
-AI/ML          • Ollama  • Scikit-learn  • Embeddings  • SVM
+#### **Backend**
+`Go` `Node.js` `Express` `MongoDB` `PostgreSQL`
+
+#### **DevOps / Infra**
+`Docker` `Kubernetes` `Prometheus` `Grafana` `GitHub Actions`
+
+#### **AI / ML**
+`Gemma` `Qwen` `Ollama` `LangChain` `Vector Databases`
+
+---
+
+### 🌍 Connect With Me
+<a href="https://github.com/AMARMG04" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/manoj-mg-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+  
+![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+### 🧩 Fun Facts
+- I love **clean UI**, efficient backend systems, and **no-nonsense architecture**
+- I try to follow **“build small → refine → scale”**
+- Coffee + good music = best coding session ☕🎧
+
+---
+
+> “Great software is built step-by-step, with clarity and patience.”
