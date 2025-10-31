@@ -62,8 +62,6 @@ I enjoy turning ideas into polished, real-world projects that feel fast, clean, 
 
 ---
 
----
-
 ### 🧩 Fun Facts
 - I love **clean UI**, efficient backend systems, and **no-nonsense architecture**
 - I try to follow **“build small → refine → scale”**
