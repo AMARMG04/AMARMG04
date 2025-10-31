@@ -1,72 +1,56 @@
-# 👋 Hey, I'm Manoj
+<h1 align="left">Manoj M G</h1>
 
-I'm a **Full Stack Developer** and **DevOps learner**, passionate about building scalable systems and practical AI-powered applications.  
-I enjoy turning ideas into polished, real-world projects that feel fast, clean, and thoughtfully engineered.
-
----
-
-### 🚀 What I'm Working On
-- Building **Insight Loop** – a SaaS platform for analyzing customer feedback using LLMs
-- Improving my **DevOps & Cloud** skills (Docker, Kubernetes, CI/CD, AWS)
-- Experimenting with **AI model inference**, quantization & hybrid deployment setups
+I'm a software engineer focused on building reliable systems — from frontend interfaces to backend services and infrastructure.  
+I value clarity, performance, and design that gets out of the way.
 
 ---
 
-
-## 🛠️ Skills & Tools
-
-### **Frontend**
-<div style="display: flex; gap: 12px;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-</div>
-
-### **Backend**
-<div style="display: flex; gap: 12px;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-</div>
-
-### **DevOps & Infra**
-<div style="display: flex; gap: 12px;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg"/>
-</div>
-
-### **AI / LLM**
-<div style="display: flex; gap: 12px;">
-  <img height="40" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white&logo=OpenAI" />
-  <img height="40" src="https://img.shields.io/badge/Gemma-4B%2F7B%2F12B-blue?style=for-the-badge" />
-  <img height="40" src="https://img.shields.io/badge/Qwen-Series-purple?style=for-the-badge" />
-</div>
+### Work & Interests
+- Building **Insight Loop** – an AI-powered customer feedback intelligence platform.
+- Exploring **DevOps**, infrastructure reliability, and scalable deployment patterns.
+- Interested in **LLM inference efficiency**, distributed processing, and hybrid cloud setups.
 
 ---
 
-## 🌍 Connect With Me
+### Skills
 
-<div align="center">
-  <a href="https://github.com/AMARMG04">
-    <img src="https://skillicons.dev/icons?i=github" height="48" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/manoj-mg-dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
-  </a>
-</div>
+**Product & Frontend**
+- Next.js with React
+- Tailwind for clean systemized UI
+- State management with Zustand
+
+**Backend & Systems**
+- Go and Node.js
+- MongoDB / PostgreSQL
+- REST and streaming architectures
+
+**Infrastructure & Observability**
+- Docker, Kubernetes
+- GitHub Actions, CI/CD pipelines
+- Prometheus, Grafana
+
+**AI / Model Workflows**
+- LLM inference (Gemma, Qwen, Ollama)
+- Prompt-structured pipelines
+- Vector search & embeddings
 
 ---
 
-### 🧩 Fun Facts
-- I love **clean UI**, efficient backend systems, and **no-nonsense architecture**
-- I try to follow **“build small → refine → scale”**
-- Coffee + good music = best coding session ☕🎧
+### Selected Projects
+| Project | Description | Stack |
+|--------|-------------|-------|
+| **Insight Loop** | End-to-end platform to analyze customer feedback using AI | Go, MongoDB, Next.js, Ollama, Redis, Docker |
+| Model Runtime Experiments | Efficiency testing with quantization formats & local inference | Gemma, Qwen, Metal (M1), Model Runner |
 
 ---
 
-> “Great software is built step-by-step, with clarity and patience.”
+### How I Work
+- Prefer **incremental iteration** over big rewrites.
+- Optimize for **understandability**, not cleverness.
+- Systems should be **simple to debug** and **boring by default**.
+
+---
+
+### Contact
+<a href="https://github.com/AMARMG04" target="_blank">GitHub</a>  
+<a href="https://www.linkedin.com/in/manoj-mg-dev" target="_blank">LinkedIn</a>
