@@ -33,17 +33,6 @@ I enjoy turning ideas into polished, real-world projects that feel fast, clean, 
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
-  
-![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 🧩 Fun Facts
 - I love **clean UI**, efficient backend systems, and **no-nonsense architecture**
 - I try to follow **“build small → refine → scale”**
